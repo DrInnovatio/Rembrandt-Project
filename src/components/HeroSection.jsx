@@ -8,7 +8,7 @@ function HeroSection () {
     <div className='hero-container'>
       <video src='/videos/cleaning_3.mp4' autoPlay loop muted /> 
       <h3>You will experience our services SOON</h3>
-      <p>Since 2008</p>
+      <p>Australia's most Intensive and Intelligent Cleaning Company</p>
       <div className='hero-btns'>
         <Button
           className='btns'

@@ -19,7 +19,7 @@
 }
 
 .navbar-logo {
-  color: #fff;
+  color: rgb(131, 250, 180);
   justify-self: start;
   margin-left: 20px;
   cursor: pointer;
@@ -50,7 +50,7 @@
 }
 
 .nav-links {
-  color: #fff;
+  color: rgb(131, 250, 180);
   display: flex;
   align-items: center;
   text-decoration: none;
