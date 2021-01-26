@@ -58,7 +58,7 @@ function Navbar () {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Apps
+                GET A QUOTE
               </Link>
             </li>
           </ul>
