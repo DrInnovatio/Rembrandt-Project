@@ -15,15 +15,9 @@ function HeroSection () {
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          Get Started
+          Why Us ? 
         </Button>
-        <Button
-          className='btns'
-          buttonStyle='btn--primary'
-          buttonSize='btn--large'
-        >
-          How to use the app <i className='fa fa-play-circle' />
-        </Button>
+        
       </div>
     </div>
   )
