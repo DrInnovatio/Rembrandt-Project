@@ -126,8 +126,8 @@
 }
 
 .social-logo {
-  width: 250px;
-  color: #fff;
+  width: 500px;
+  color: rgb(131, 250, 180);
   justify-self: start;
   margin-left: 10px;
   cursor: pointer;
