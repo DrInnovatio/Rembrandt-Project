@@ -8,16 +8,13 @@ function Footer() {
     <div className='footer-container'>
       <section className="fotter-subscription">
         <p className="footer-subscription-heading">
-          Don't get bored.
+          Don't waste your time and money.
         </p>
         <p className="footer-subscription-text">
           You can unsubscribe and uninstall at any time.
         </p>
         <div className="input-area">
-          <form>
-            <input type="email" name="email" placeholder="Your Email" className="footer-input" />
-            <Button buttonStyle="btn--outline">Subscribe</Button>
-          </form>
+          
         </div>
       </section>
       <div className="footer-links">
