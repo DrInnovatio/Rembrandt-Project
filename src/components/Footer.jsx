@@ -35,7 +35,7 @@ function Footer() {
             <Link to='/'>Sponsorships</Link>
           </div>
         </div>
-
+    
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
             <h2>Videos</h2>
